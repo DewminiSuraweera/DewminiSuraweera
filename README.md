@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dewminisuraweera&label=Profile%20views&color=0e75b6&style=flat" alt="dewminisuraweera" /> </p>
 
 - 👀 I’m interested in Electrical & Computer Engineering
-- 🌱 I’m currently learning in the fields of Web Developing, AI and Data Science
+- 🌱 I’m currently learning in the fields of AI, Data Science & Web Developing
 - 📫 How to reach me **dewminisuraweeras@gmail.com**
 
 
